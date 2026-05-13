@@ -5,7 +5,7 @@ This Power BI project provides a complete sales analytics dashboard designed to 
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 1. Main Overview Dashboard
 - Total Sales Analysis
@@ -40,7 +40,7 @@ This Power BI project provides a complete sales analytics dashboard designed to 
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```bash
 final_projectofpowerbi.pbix   # Main Power BI Dashboard File
@@ -49,7 +49,7 @@ README.md                     # Project Documentation
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Analyze overall sales performance.
 - Track profit growth across regions.
 - Identify top-performing products.
@@ -58,7 +58,7 @@ README.md                     # Project Documentation
 
 ---
 
-## 🎯 Dashboard Pages
+## Dashboard Pages
 
 | Page Name | Description |
 |-----------|-------------|
@@ -86,7 +86,7 @@ You can add screenshots of your dashboard here for better presentation.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Add forecasting visuals
 - Include real-time data integration
 - Improve mobile dashboard responsiveness
@@ -94,12 +94,12 @@ You can add screenshots of your dashboard here for better presentation.
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Vishal Yadav**
 
 Power BI & Data Analytics Enthusiast
 
----
+## PROJECT VIDEO LINK :- https://drive.google.com/file/d/1mFk1eXT8wXwNo2HjbsNY44ogAhsZLue7/view?usp=sharing
 
-## 📄 License
+## License
 This project is created for educational and portfolio purposes.
